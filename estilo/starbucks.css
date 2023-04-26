@@ -379,6 +379,7 @@ footer{
     }
     .header-right input{
         max-width: 190px;
+        padding-left: 20px;
     }
     .banner{
         padding-top: 40px;
@@ -424,7 +425,7 @@ footer{
     }
     .area1--img1{
         height: 250px;
-        max-width: 425px;
+        max-width: 405px;
         width: 100vw
     }
 
@@ -451,7 +452,7 @@ footer{
     }
     .area2--img1{
         height: 250px;
-        max-width: 425px;
+        max-width: 405px;
         width: 100vw
     }
 
