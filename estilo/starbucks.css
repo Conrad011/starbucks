@@ -390,7 +390,7 @@ footer{
     .banner-images{
         display: flex;
         justify-content: center;
-    
+        padding-left: 10px;
     }
     .banner-images img{
         max-width: 100px;
@@ -424,6 +424,8 @@ footer{
     }
     .area1--img1{
         height: 250px;
+        max-width: 425px;
+        width: 100vw
     }
 
     .area2{
@@ -449,6 +451,8 @@ footer{
     }
     .area2--img1{
         height: 250px;
+        max-width: 425px;
+        width: 100vw
     }
 
 
